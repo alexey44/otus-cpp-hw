@@ -8,7 +8,7 @@ on:
 
 defaults:
  run:
-  working-directory: ./source
+  working-directory: ./03-allocator/source
 
 jobs:
   build:
